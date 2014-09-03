@@ -3,15 +3,25 @@ Contributors: dominik.schwind
 Tags: instagram, embed, oembed
 Requires at least: 3.0
 Tested up to: 3.9
-Stable tag: 0.1
+Stable tag: 0.2
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Embedding Instagram posts is broken at the moment. This plugin provides a temporary and dirty solution.
+Embedding Instagram posts was broken at the moment. This plugin provided a temporary and dirty solution.
 
 == Description ==
-Embedding Instagram posts is broken at the moment. This plugin provides a temporary and dirty solution.
+Embedding Instagram posts was broken at the moment. This plugin provided a temporary and dirty solution.
 
-I will push an update with a "delete me" message once Instagram fixes the problem on their side.
+It is not necessary anymore and the current version does not do anything. At all. Empty plugin.
 
-And yes, it is really dirty - it forces WordPress to always embed media with more than 613 pixels on either side, which might and probably will create problems with other external services. Use at your own risk.
+Don't install it. In fact, if you have it installed: delete it.
+
+== Changelog ==
+
+= 0.2 =
+* Instagram embedding works now, so this plugin is empty now.
+
+== Upgrade Notice ==
+
+= 0.2 =
+Instagram embedding works now. You can delete this plugin.
